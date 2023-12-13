@@ -4,7 +4,7 @@ Just another simple and easy to use python socks server.
 
 ## Usage
 
-PySocks-Server is preferably used with [PySocks-NG](https://github.com/molangning/PySocks-NG), Another repository that I would be maintaining if things play out nicely.
+PySocks-Server is preferably used with [PySocks-NG](https://github.com/molangning/PySocks-NG), Another repository that I would be maintaining if things play out nicely. Fixing PySocks-NG is on top of my priority right now so I may return to this in a few days/months/years/decades/never.
 
 ## Hey! There is nothing here!
 
