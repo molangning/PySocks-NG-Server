@@ -1,4 +1,4 @@
-# PySocks-Server
+# PySocks-NG-Server
 
 Just another simple and easy to use python socks server.
 
@@ -24,3 +24,4 @@ https://github.com/fengyouchao/pysocks for the base
 - [ ] No auth usage
 - [ ] USERNAME/PASSWORD auth
 - [ ] GSS-API auth
+- [ ] Function to turn off bind
