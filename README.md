@@ -14,7 +14,6 @@ This repository is just a stub right now, I will expand it accordingly. For now,
 
 ## References
 
-https://github.com/fengyouchao/pysocks for the base
 
 ## Tasks (In order of importance)
 
